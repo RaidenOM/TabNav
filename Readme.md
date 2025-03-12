@@ -97,3 +97,9 @@ expo build:android
 
 6. **Install the APK**:
    - Transfer the APK to your Android device and install it.
+
+## Screenshots
+
+![sc1](./assets/sc1.png)
+![sc2](./assets/sc2.png)
+![sc3](./assets/sc3.png)
