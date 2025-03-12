@@ -4,11 +4,11 @@
     "slug": "TabNav",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/TabNav.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash-icon.png",
+      "image": "./assets/TabNav.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -17,12 +17,18 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/TabNav.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.omkumar.TabNav"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/TabNav.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5ac0e5b8-a792-4338-aa78-25a54719e882"
+      }
     }
   }
 }
